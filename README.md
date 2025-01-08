@@ -21,8 +21,7 @@ pip install minimax-platform-video -U
 ```
 
 - 2、设置环境变量
-
-首先，我们需要安装最新版本的智谱AI SDK，只有 > 2.1.4 的SDK版本支持视频生成模型。 同时，我们设定好 API Key。
+我们设定好 API Key。
 ```shell
 export API_KEY="开放平台key" 
 ```
